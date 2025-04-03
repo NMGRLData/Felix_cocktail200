@@ -1,8 +1,8 @@
 {
     "Ar36": {
-        "error": 0.0002035678115631981,
+        "error": 7.315991329886909e-05,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -41,12 +41,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.0017581183134052628
+        "value": 0.002013740355444795
     },
     "Ar37": {
-        "error": 0.004331532796189682,
+        "error": 0.009023728548148358,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -85,12 +85,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.009191617789079872
+        "value": 0.009191617789079887
     },
     "Ar38": {
-        "error": 0.003040664068319669,
+        "error": 0.003139813873748091,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -129,12 +129,12 @@
             }
         ],
         "reviewed": true,
-        "value": 0.00585963383810751
+        "value": 0.005859633838107529
     },
     "Ar39": {
-        "error": 0.004332130691039362,
+        "error": 0.0044272048148260535,
         "error_type": "",
-        "fit": "Weighted Mean_SEM",
+        "fit": "Weighted Mean_SE but if MSWD>1 use SE * sqrt(MSWD)",
         "references": [
             {
                 "exclude": "ok",
@@ -176,9 +176,9 @@
         "value": 0.031004107750741316
     },
     "Ar40": {
-        "error": 0.0229215912753742,
+        "error": 0.024536816242674224,
         "error_type": "",
-        "fit": "Average_SD",
+        "fit": "Bracketing Interpolate",
         "references": [
             {
                 "exclude": "ok",
@@ -217,6 +217,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.10843553909436567
+        "value": 0.10639841950209213
     }
 }
